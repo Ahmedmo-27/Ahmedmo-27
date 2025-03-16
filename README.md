@@ -2,8 +2,6 @@
 
 # Aspiring Software Engineer | Bringing Ideas to Life Through Code
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,code)
-
 ## 🚀 About Me
 I'm a passionate **Computer Science** student at **Misr International University**, expected to graduate in **July 2027**. With a strong foundation in **Software Development, Web Development, and Software Testing**, I enjoy building scalable applications and solving complex problems.
 
