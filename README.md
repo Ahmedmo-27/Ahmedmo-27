@@ -13,9 +13,9 @@ I'm a passionate **Computer Science** student at **Misr International University
 
 ## 🏆 Projects
 - **Hospital Management System** 🏥 - A comprehensive system for managing hospital operations.
-- **E-Commerce System** 🛒 - A fully functional online store with an optimized product database.
+- **E-Commerce System** ⌚ - A fully functional online store with an optimized product database.
 - **To-Do List Application** ✅ - Task management app using a Binary Search Tree (BST).
-- **Watches E-Commerce** ⌚ - Optimized products display and recommendation system.
+- **E-Commerce Java Application** 🛒 - .A fully functional offline application store.
 
 ## 🎯 Current Focus
 - Developing a **large-scale web application** for a team project.
