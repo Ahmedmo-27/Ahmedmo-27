@@ -7,9 +7,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedmo-27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph" /> <br>
+  <img src=  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedmo-27&layout=compact&langs_count=6&theme=dark" height="150" alt="languages graph" /><br>
   <img src="https://github-profile-trophy.vercel.app?username=Ahmedmo-27&theme=dracula&column=2&row=1&margin-w=10&no-bg=false" height="150" alt="trophy graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ahmedmo-27&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+ <img src="https://github-readme-stats.vercel.app/api?username=Ahmedmo-27&show_icons=true&include_all_commits=true&count_private=true&theme=dark" height="150" alt="GitHub stats" /> <br>
 </div>
 
 ###
