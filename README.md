@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Ahmed Mostafa and I'm a Software Engineer</h2>
+<h2 align="left">Hi 👋! My name is Ahmed Mostafa</h2>
+
+###
+
+<p align="left">I'm A junior Computer Science student majoring in Software Engineering in Misr International University class of (2027), with experience in full-stack web, Android, DevOps, Software Testing, and security. Completed internships at NBE, ITIDA, and Fuzetek, built a deployment toolkit, delivered Vaultique and Cybertopia, and led the MSP-MIU website. Seeking junior roles in secure, scalable systems, automation, and CI/CD</p>
 
 ###
 
@@ -15,6 +19,8 @@
 ###
 
 <h2 align="left">🛠️ Tools & Technologies</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
