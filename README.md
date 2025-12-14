@@ -1,18 +1,18 @@
-<h2 align="left">Hi 👋! My name is Ahmed Mostafa</h2>
+<h2 align="left">Hi 👋! I'm Ahmed Mostafa</h2>
 
 <p align="left">
-  I'm a Junior Computer Science student majoring in Software Engineering at Misr International University (Class of 2027), 
-  with experience in Full-Stack Web Development, Android, DevOps, Software Testing, and Security. 
-  I've completed internships at NBE, ITIDA, and Fuzetek, built a deployment toolkit, delivered Vaultique and Cybertopia, 
-  and led the MSP-MIU website. I’m seeking junior roles focused on secure, scalable systems, automation, and CI/CD.
+  Junior Computer Science student majoring in <b>Software Engineering</b> at Misr International University (Class of 2027).  
+  I have hands-on experience across <b>Full-Stack Web Development, Android, DevOps, Software Testing, and Security</b>.  
+  I’ve completed internships at <b>NBE, ITIDA, and Fuzetek</b>, built a <b>deployment & automation toolkit</b>, delivered real-world projects like <b>Vaultique</b> and <b>Cybertopia</b>, and led the development of the <b>MSP-MIU website</b>.  
+  I’m currently seeking <b>junior roles</b> focused on <b>secure, scalable systems, automation, and CI/CD</b>.
 </p>
 
 ---
 <h2 align="left">GitHub Stats 📈</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedmo-27&locale=en&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&cache_seconds=3600&include_forks=true" height="150" alt="languages graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=Ahmedmo-27&theme=dracula&column=3&row=1&margin-w=10&no-bg=false" height="150" alt="trophy graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Ahmedmo-27&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedmo-27&locale=en&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&cache_seconds=3600&include_forks=true" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=Ahmedmo-27&theme=dracula&column=3&row=1&margin-w=10" height="150" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Ahmedmo-27&theme=dracula&border_radius=5" height="150" />
 </div>
 
 ---
@@ -22,45 +22,35 @@
 <h2 align="left">Tools & Technologies 🛠️</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="30" alt="jetpackcompose logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo" />
+  <!-- Frontend & Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" />
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+
+  <!-- DevOps & OS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" />
+
+  <!-- Mobile & Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
+
+  <!-- Testing & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" />
 </div>
 
 ---
@@ -68,10 +58,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ahmedmostafa-swe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-  <a href="mailto:ahmedmostafa2004@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&color=0078D4&logoColor=white&style=for-the-badge" height="35" alt="microsoft-outlook logo" />
+  <a href="mailto:ahmedmostafa2004@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" />
   </a>
 </div>
 
@@ -79,4 +69,4 @@
 
 <br clear="both" />
 
-<img src="https://raw.githubusercontent.com/Ahmedmo-27/Ahmedmo-27/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Ahmedmo-27/Ahmedmo-27/output/snake.svg" />
