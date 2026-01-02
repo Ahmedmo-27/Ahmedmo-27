@@ -23,10 +23,10 @@
 
   <!-- GitHub Streak -->
   <img
-    src="https://github-readme-stats-five-rho-27.vercel.app/api?username=Ahmedmo-27&show_icons=true&theme=radical&cache_seconds=1"
+    src="https://github-profile-trophy.vercel.app/?username=Ahmedmo-27&column=3&row=1&theme=dracula"
     height="150"
+    alt="GitHub Trophy"
   />
-
   <br />
 
   <!-- GitHub Stats (Overall) -->
