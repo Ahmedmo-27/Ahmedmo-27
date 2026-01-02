@@ -15,7 +15,7 @@
 <div align="center">
   <!-- Top Languages -->
   <img
-    src="https://github-readme-stats-fy6ksiql5-ahmedmo-27s-projects.vercel.app/api/top-langs?username=Ahmedmo-27&layout=compact&theme=dark&cache_seconds=1"
+    src="https://github-readme-stats-five-rho-27.vercel.app/api/top-langs?username=Ahmedmo-27&layout=compact&theme=dark&cache_seconds=1"
     height="150"
   />
 
@@ -23,7 +23,7 @@
 
   <!-- GitHub Streak -->
   <img
-    src="https://github-readme-stats-fy6ksiql5-ahmedmo-27s-projects.vercel.app/api?username=Ahmedmo-27&show_icons=true&theme=radical&cache_seconds=1"
+    src="https://github-readme-stats-five-rho-27.vercel.app/api?username=Ahmedmo-27&show_icons=true&theme=radical&cache_seconds=1"
     height="150"
   />
 
