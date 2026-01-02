@@ -15,7 +15,7 @@
 <div align="center">
   <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedmo-27&layout=compact&theme=dark&cache_seconds=1800&token=YOUR_TOKEN_HERE"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedmo-27&layout=compact&theme=dark&cache_seconds=1800"
     height="150"
     alt="Top Languages"
   />
@@ -24,7 +24,7 @@
 
   <!-- Streak Stats -->
   <img
-    src="https://streak-stats.demolab.com?user=Ahmedmo-27&theme=dracula&hide_border=true&cache_seconds=1800&token=YOUR_TOKEN_HERE"
+    src="https://streak-stats.demolab.com?user=Ahmedmo-27&theme=dracula&hide_border=true&cache_seconds=1800"
     height="150"
     alt="GitHub Streak"
   />
@@ -33,7 +33,7 @@
 
   <!-- GitHub Stats (Overall) -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ahmedmo-27&show_icons=true&theme=radical&cache_seconds=1800&token=YOUR_TOKEN_HERE"
+    src="https://github-readme-stats.vercel.app/api?username=Ahmedmo-27&show_icons=true&theme=radical&cache_seconds=1800"
     height="150"
     alt="GitHub Stats"
   />
