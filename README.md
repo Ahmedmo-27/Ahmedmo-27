@@ -30,7 +30,7 @@
   />
 </div>
 ---
-
+<br />
 <img
   align="right"
   height="150"
