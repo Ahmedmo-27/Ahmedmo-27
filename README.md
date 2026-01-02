@@ -14,8 +14,7 @@
 
 <div align="center">
   <!-- Top Languages -->
-  <img src="https://streak-stats.demolab.com?user=Ahmedmo-27&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
-
+  <img src="https://github-readme-stats-five-rho-27.vercel.app/api/top-langs?username=Ahmedmo-27&layout=compact&theme=dark&cache_seconds=1" height="150" />
   <br />
 
   <!-- GitHub Streak -->
