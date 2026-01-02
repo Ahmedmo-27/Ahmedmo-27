@@ -15,18 +15,18 @@
 <div align="center">
   <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedmo-27&layout=compact&theme=dark&cache_seconds=1800"
+    src="https://github-readme-stats-fy6ksiql5-ahmedmo-27s-projects.vercel.app/api/top-langs?username=Ahmedmo-27&layout=compact&theme=dark"
     height="150"
     alt="Top Languages"
   />
 
   <br />
 
-  <!-- Streak Stats -->
+  <!-- GitHub Streak -->
   <img
-    src="https://streak-stats.demolab.com?user=Ahmedmo-27&theme=dracula&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats-fy6ksiql5-ahmedmo-27s-projects.vercel.app/api?username=Ahmedmo-27&show_icons=true&theme=radical"
     height="150"
-    alt="GitHub Streak"
+    alt="GitHub Stats"
   />
 
   <br />
