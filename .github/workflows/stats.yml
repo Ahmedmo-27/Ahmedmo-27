@@ -1,0 +1,32 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs daily at midnight
+  workflow_dispatch: # allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats-action@v1.0.0
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          username: Ahmedmo-27
+          include_forks: true
+          show_icons: true
+          theme: dark
+          output_path: ./stats
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add stats/
+          git commit -m "Update GitHub stats"
+          git push
