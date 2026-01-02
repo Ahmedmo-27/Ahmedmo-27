@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="mailto:ahmedmostafa.swe1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=google-gmail&logoColor=white" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
