@@ -17,7 +17,6 @@
   <img
     src="https://github-readme-stats-fy6ksiql5-ahmedmo-27s-projects.vercel.app/api/top-langs?username=Ahmedmo-27&layout=compact&theme=dark"
     height="150"
-    alt="Top Languages"
   />
 
   <br />
@@ -26,7 +25,6 @@
   <img
     src="https://github-readme-stats-fy6ksiql5-ahmedmo-27s-projects.vercel.app/api?username=Ahmedmo-27&show_icons=true&theme=radical"
     height="150"
-    alt="GitHub Stats"
   />
 
   <br />
