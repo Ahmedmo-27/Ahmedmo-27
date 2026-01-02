@@ -17,17 +17,11 @@
     height="150"
   />
 
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Ahmedmo-27&theme=dracula&no-frame=true&margin-w=15&margin-h=15"
-    height="150"
-  />
+<img src="https://github-profile-trophy.vercel.app?username=Ahmedmo-27&column=3&row=1&theme=dracula" height="150" alt="trophy graph"  />
 
   <br />
 
-  <img
-    src="https://streak-stats.demolab.com?user=Ahmedmo-27&theme=dracula&border_radius=5"
-    height="150"
-  />
+  <img src="https://streak-stats.demolab.com?user=Ahmedmo-27&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ---
