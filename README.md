@@ -11,19 +11,33 @@
 
 <h2 align="left">GitHub Stats 📈</h2>
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedmo-27&layout=compact&langs_count=6&theme=dark"
-    height="150"
-  />
 
-<img src="https://github-profile-trophy.vercel.app?username=Ahmedmo-27&column=3&row=1&theme=dracula" height="150" alt="trophy graph"  />
+<div align="center">
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedmo-27&layout=compact&theme=dark&cache_seconds=1800&token=YOUR_TOKEN_HERE"
+    height="150"
+    alt="Top Languages"
+  />
 
   <br />
 
-  <img src="https://streak-stats.demolab.com?user=Ahmedmo-27&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+  <!-- Streak Stats -->
+  <img
+    src="https://streak-stats.demolab.com?user=Ahmedmo-27&theme=dracula&hide_border=true&cache_seconds=1800&token=YOUR_TOKEN_HERE"
+    height="150"
+    alt="GitHub Streak"
+  />
 
+  <br />
+
+  <!-- GitHub Stats (Overall) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ahmedmo-27&show_icons=true&theme=radical&cache_seconds=1800&token=YOUR_TOKEN_HERE"
+    height="150"
+    alt="GitHub Stats"
+  />
+</div>
 ---
 
 <img
