@@ -22,18 +22,14 @@
   <br />
 
   <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Ahmedmo-27&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <br />
+
+  <!-- GitHub Trophy (Overall) -->
   <img
     src="https://github-profile-trophy.vercel.app/?username=Ahmedmo-27&column=3&row=1&theme=dracula"
     height="150"
     alt="GitHub Trophy"
-  />
-  <br />
-
-  <!-- GitHub Stats (Overall) -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ahmedmo-27&show_icons=true&theme=radical&cache_seconds=1800"
-    height="150"
-    alt="GitHub Stats"
   />
 </div>
 ---
