@@ -23,11 +23,10 @@
 
   <br />
 
-  <!-- GitHub Trophy (Overall) -->
+  <!-- Contribution activity graph -->
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Ahmedmo-27&column=3&row=1&theme=dracula"
-    height="150"
-    alt="GitHub Trophy"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmedmo-27&theme=github-dark&bg_color=151515&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+    alt="GitHub contribution activity graph"
   />
 </div>
 ---
